@@ -35,7 +35,7 @@ I'm passionate about technology, games and everything in-between. I like to lear
   </a>
 </p><br>
 
-<h2 align="center">📚 Learning 📚</h2>
+<h2 align="center">📚 What I want to learn 📚</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,rust,python,ts,aws,googlecloud,prisma,docker,expressjs,postgresql,cypress,jest" />
